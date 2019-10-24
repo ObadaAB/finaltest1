@@ -4,4 +4,9 @@ public class Algorithms
     {
         Arrays.sort(a);
     }
+    
+    int fun1()
+    {
+        return 1;
+    }
 }
